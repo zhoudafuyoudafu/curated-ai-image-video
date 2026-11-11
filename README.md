@@ -118,6 +118,7 @@ AI-powered tools for editing, clipping, and repurposing video content.
 |------|-------------|---------|-------|
 | **[Ssemble](https://www.ssemble.com)** | **AI-powered video clipping platform** that automatically identifies the best moments from long-form videos and creates viral short-form clips with captions, hook titles, and music. Features MCP Server integration for programmatic access. | Free tier + paid plans | [MCP Server](https://www.npmjs.com/package/@ssemble/mcp-server) &bull; [Docs](https://www.ssemble.com) |
 | **[Descript](https://www.descript.com)** | All-in-one video editor with AI transcription, text-based editing, screen recording, and AI voice cloning. Edit video by editing text. | Free tier + from $24/mo | [Docs](https://www.descript.com/help) |
+| **[Genjutsu AI](https://genjutsuai.dev)** | Browser-based AI video editor for motion transfer, swapping a person or outfit, or restyling a clip. | Freemium | [Website](https://genjutsuai.dev) |
 | **[CapCut](https://www.capcut.com)** | ByteDance's feature-rich video editor with AI-powered auto-captions, background removal, and effects. Available on web, desktop, and mobile. | Free + Pro from $7.99/mo | [Website](https://www.capcut.com) |
 | **[Opus Clip](https://www.opus.pro)** | AI-powered tool that repurposes long videos into short viral clips, with automatic reframing and caption generation. | Free tier + from $19/mo | [Website](https://www.opus.pro) |
 | **[Vizard AI](https://vizard.ai)** | AI video clipping tool that transforms long-form content into bite-sized clips optimized for social media platforms. | Free tier + from $16/mo | [Website](https://vizard.ai) |
@@ -142,9 +143,10 @@ AI models and platforms for creating images from text descriptions or other inpu
 | **[Adobe Firefly](https://www.adobe.com/products/firefly.html)** | Adobe's generative AI model family trained on licensed content, integrated into Creative Cloud applications. | Included with Adobe CC + standalone plans | [API](https://developer.adobe.com/firefly-services/) |
 | **[Google Imagen 3](https://deepmind.google/technologies/imagen-3/)** | Google DeepMind's highest quality text-to-image model with photorealistic output and strong text rendering. | Via Google Cloud / Gemini | [Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) |
 | **[Recraft V3](https://www.recraft.ai)** | Professional-grade AI image generation with fine control over style, brand consistency, and vector graphics output. | Free tier + paid plans | [API](https://www.recraft.ai/docs) |
-| **[Playground AI](https://playground.com)** | AI image generation and editing platform with mixed image editing, canvas workflow, and community sharing. | Free tier + from $15/mo | [Website](https://playground.com) |
 | **[Krea AI](https://www.krea.ai)** | Real-time AI image generation and enhancement with upscaling, visual search, and AI-trained pattern generation. | Free tier + from $24/mo | [Website](https://www.krea.ai) |
 | **[NightCafe](https://nightcafe.studio)** | AI art generation platform with multiple AI models (SDXL, DALL-E, Stable Diffusion) and community features. | Free credits + from $5.99/mo | [Website](https://nightcafe.studio) |
+| **[PetPicto](https://petpicto.com/)** | Online AI portrait studio that turns photos of you and your pet into a "one pet plus us" portrait. | $19 / $33, no subscription | [Website](https://petpicto.com/) |
+| **[Playground AI](https://playground.com)** | AI image generation and editing platform with mixed image editing, canvas workflow, and community sharing. | Free tier + from $15/mo | [Website](https://playground.com) |
 
 ## Image Editing
 
